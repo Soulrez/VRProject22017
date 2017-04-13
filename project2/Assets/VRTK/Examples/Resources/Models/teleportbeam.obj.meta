@@ -1,17 +1,22 @@
 fileFormatVersion: 2
-guid: 810b34cc6abf21d4b93afcc7d3d282b7
-timeCreated: 1491843308
-licenseType: Free
+guid: 950854b0e5850734db12d3c0e448f52b
+timeCreated: 1467286816
+licenseType: Store
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: beam
-    100002: //RootNode
+    100002: beam_in
+    100004: //RootNode
     400000: beam
-    400002: //RootNode
+    400002: beam_in
+    400004: //RootNode
     2300000: beam
+    2300002: beam_in
     3300000: beam
+    3300002: beam_in
     4300000: beam
+    4300002: beam_in
   materials:
     importMaterials: 1
     materialName: 0
@@ -19,7 +24,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -58,7 +63,6 @@ ModelImporter:
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -69,10 +73,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
-    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
   humanoidOversampling: 1
